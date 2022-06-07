@@ -1,3 +1,5 @@
+ <a href="Blue-Team.md"><img src="https://user-images.githubusercontent.com/51442719/172275420-b9469366-1ac5-4b7e-a322-01ad58a2ca44.png">
+
 # The blue team's objectives and duties include:
 - Recognizing and responding to all phases of an incident.
 - Identifying indicators of compromise by observing abnormal traffic patterns.
