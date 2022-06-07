@@ -17,4 +17,4 @@
 
 ---
 
-- Anlominus: [RedTeam](https://github.com/Anlominus/RedTeam): RedTeam - Red Team CheckList & Tools 
+- Anlominus: [RedTeam](https://github.com/Anlominus/RedTeam): CheckList & Tools 
