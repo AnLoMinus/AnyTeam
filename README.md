@@ -1,4 +1,4 @@
-<h1 align="center"> <a src="https://github.com/Anlominus/AnyTeam">AnyTeam</a>
+<h1 align="center"> <a href="https://github.com/Anlominus/AnyTeam"> AnyTeam </a> </h1>
 <h2 align="center">  <a href="Red-Team.md">Red Team</a> ~ <a href="Purple-Team.md">Purple Team</a> ~ <a href="Blue-Team.md">Blue Team</a> </h2>
 
 Red Team | Purple Team | Blue Team
