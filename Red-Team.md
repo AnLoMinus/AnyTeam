@@ -1,3 +1,6 @@
+
+<a href="Red-Team.md"><img src="https://user-images.githubusercontent.com/51442719/172275443-f2f7910c-d5be-431c-8e94-a4853b76225a.png"></a> 
+
 # The red team's objectives and duties include:
 - Compromising the target's security via obtaining information, penetrating their systems, or breaking their physical perimeters.
 - Avoiding the blue team's detection. Many attacks happen in a split second, making it difficult for the blue side to neutralize the threat before the 'damage' is done.
