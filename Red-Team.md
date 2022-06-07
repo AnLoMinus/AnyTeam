@@ -14,3 +14,7 @@
 - Using social engineering and phishing techniques to persuade employees to give or expose information in order to breach their computers.
 - Cloning an administrator's access cards to obtain access to regions that aren't prohibited
 - Penetration testing, both physical and digital - usually done in a vacuum.
+
+---
+
+- Anlominus: [RedTeam](https://github.com/Anlominus/RedTeam): RedTeam - Red Team CheckList & Tools 
