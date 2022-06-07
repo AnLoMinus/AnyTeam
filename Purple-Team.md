@@ -1,3 +1,5 @@
+<a href="Purple-Team.md"><img src="https://user-images.githubusercontent.com/51442719/172275464-32ad9efc-ec38-4969-b0ae-42d404863f35.png"> 
+
 # The purple team's objectives and duties include:
 - Collaborating with the red and blue teams, analyzing how they work together and recommending any necessary changes to the current exercise or noting them for future reference.
 - Seeing the big picture and adopting both teams' mindsets and responsibilities. A purple team member, for example, will collaborate with the blue team to analyze how events are detected. After that, the team member will join the red team to discuss how the blue team's detection capabilities can be hacked.
