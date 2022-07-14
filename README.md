@@ -18,7 +18,6 @@
 ⫷ [**`Goals`**](https://github.com/Anlominus/Goals) | [**`Studies`**](https://github.com/Anlominus/Studies) | [**`HacKing`**](https://github.com/Anlominus/HacKing) | [**`AnyTeam`**](https://github.com/Anlominus/AnyTeam) ⫸
 <br>
 
-</div>
   
 ---
 
@@ -36,7 +35,14 @@ Black Box Testing | Gap Analysis | Incident Response (IR)
 Social Engineering | Red vs Blue Skill Testing | Operational Security 
 Web App Scanning | System Improvements | Thread Hunting 
 Vulnerability Exploitation | Collaborative Security | Digital Forensics 
+
+
+# 😎 Awesomeness 🤩 
+Red Team | Purple Team | Blue Team
+:---:|:---:|:---:
+| | | [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam)
  
 
 ---
 
+</div>
